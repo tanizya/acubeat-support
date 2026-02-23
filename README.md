@@ -1,6 +1,6 @@
 # AcuBeat Support
 
-Thank you for using AcuBeat\!
+Thank you for playing AcuBeat\!
 
 ## Report an Issue
 
