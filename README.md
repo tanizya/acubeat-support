@@ -43,7 +43,7 @@ This data can be deleted at any time by uninstalling the App.
 
 - **Game Center (Apple)**: If you choose to use Game Center, your scores are submitted to Apple's Game Center service. This is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 - **In-App Purchases (Apple)**: Purchases are processed through Apple's App Store. No payment information is accessed or stored by the App.
-- **Advertising**: The App may display ads provided by Apple. Ad interactions are governed by Apple's advertising policies.
+- **Advertising**: The App may display ads provided by Google AdMob. Ad interactions are governed by [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ### Children's Privacy
 
